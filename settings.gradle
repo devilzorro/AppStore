@@ -1,0 +1,1 @@
+include ':app', ':internalapp', ':externalapp1', ':externalapp2'
